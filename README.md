@@ -1,11 +1,12 @@
 ## 👋 Olá! Eu sou o Matheus Fogaça Sarretto - 21 Anos  
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);  
-💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
-🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, seguranga da informação e nuvem;  
-🚀 Estou animado para contribuir para projetos e aprender com profissionais experientes.  
 
----
+💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
+
+🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, seguranga da informação e nuvem;  
+
+🚀 Estou animado para contribuir para projetos e aprender com profissionais experientes.  
 
 ## 🖥️ Tecnologias Full-Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,8 +41,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussarretto&layout=compact&theme=github_dark)
