@@ -1,9 +1,9 @@
 ## 👋 Olá! Eu sou o Matheus Fogaça Sarretto - 21 Anos  
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);  
-- 💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
-- 🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, seguranga da informação e nuvem;  
-- 🚀 Estou animado para contribuir para projetos e aprender com profissionais experientes.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);  
+💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
+🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, seguranga da informação e nuvem;  
+🚀 Estou animado para contribuir para projetos e aprender com profissionais experientes.  
 
 ---
 
