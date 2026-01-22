@@ -4,7 +4,7 @@
 
 💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
 
-🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, segurança da informação e nuvem;  
+🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, nuvem e segurança da informação;  
 
 🚀 Estou animado para contribuir em projetos e aprender com profissionais experientes.  
 
