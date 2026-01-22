@@ -6,7 +6,7 @@
 
 🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, seguranga da informação e nuvem;  
 
-🚀 Estou animado para contribuir para projetos e aprender com profissionais experientes.  
+🚀 Estou animado para contribuir em projetos e aprender com profissionais experientes.  
 
 
 ## 🖥️ Tecnologias Full-Stack
