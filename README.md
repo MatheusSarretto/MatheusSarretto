@@ -4,7 +4,7 @@
 
 💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
 
-🔍 Tenho interesse de explorar mais diferentes áreas da tecnologia: desenvolvimento de software, área de dados, nuvem e segurança da informação;  
+🔍 Tenho interesse de explorar mais em diferentes áreas da tecnologia: desenvolvimento de software, área de dados, nuvem e segurança da informação;  
 
 🚀 Estou animado para contribuir em projetos e aprender com profissionais experientes.  
 
@@ -23,6 +23,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 ## 🔬 Tecnologias de Análise e Ciência de Dados
