@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);  
 
-💻 Treinado em Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
+💻 Experiência com Desenvolvimento Full-Stack, Análise e Ciência de Dados;  
 
 🔍 Tenho interesse de explorar mais em diferentes áreas da tecnologia: desenvolvimento de software, área de dados, nuvem e segurança da informação;  
 
